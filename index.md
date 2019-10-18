@@ -12,3 +12,4 @@ Please join our group on [Meetup](http://meetup.com/trianglephp)
 
 Or join us in [Slack](https://join.slack.com/t/trianglephp/shared_invite/enQtODAxNzU1ODQ3ODE1LTNhMWJjN2VkNWU2M2UwMDMwNDI1NmNlOWZhZWMyOTQwMDNjNDIwOWM4Mjc5NjU1NmExYjA4NzEwNmI1Njk5YTE)
 
+![Yay Hacktoberfest!](img/triangle-php-hacktoberfest.jpeg)
