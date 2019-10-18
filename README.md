@@ -3,7 +3,7 @@
 ### Quickstart
 
 ```
-gem install jekyll bundler
+gem install bundler && bundle install
 bundle exec jekyll serve
 # visit http://localhost:4000
 ```
