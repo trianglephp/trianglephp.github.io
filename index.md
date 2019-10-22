@@ -3,10 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title:  "Welcome to TrianglePHP!"
 date:   2019-10-17 19:36:45 -0400
 categories: index
 ---
+
+# Welcome to TrianglePHP!
 
 Please join our group on [Meetup](http://meetup.com/trianglephp)
 
